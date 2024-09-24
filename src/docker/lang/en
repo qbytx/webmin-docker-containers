@@ -1,0 +1,26 @@
+not_installed=Docker was not found on this system
+
+index_title=Docker container management
+index_return=container list
+
+view_container_title=Container $1
+
+tab_info=Docker Info
+tab_containers=Containers
+tab_log=Log
+tab_inspect=Inspect
+
+command_err=Command could not be run
+
+label_name=Name
+label_label=Label
+label_running=Running
+label_runningfor=Running for
+label_cpu=CPU
+label_mem=MEM
+
+label_start=Start
+label_stop=Stop
+label_restart=Restart
+label_refresh=Refresh
+label_viewlog=View log
